@@ -8,8 +8,8 @@
             android:id="@+id/txt_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ARPIT"
-            android:textSize="30dp"
+            android:text="Sample text"
+            android:textSize="25dp"
             android:textStyle="bold"
             android:layout_marginTop="5dp"
             android:layout_marginLeft="10dp"/>

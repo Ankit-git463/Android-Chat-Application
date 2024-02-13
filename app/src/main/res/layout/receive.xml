@@ -5,7 +5,7 @@
 
     <RelativeLayout
         android:layout_width="wrap_content"
-        android:background="@drawable/edt_background"
+        android:background="@drawable/btn_background"
 
         android:layout_marginLeft="5dp"
         android:layout_marginTop="5dp"
@@ -16,9 +16,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="This is a receive message"
-
+            android:textColor="@color/messagetext"
+            android:textStyle="bold"
             android:padding="10dp"
-            android:textSize="18sp"/>
+            android:textSize="19sp"/>
 
     </RelativeLayout>
 
